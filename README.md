@@ -37,6 +37,6 @@ Check out my portfolio to see more about my projects and experience: [harraouiso
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=H-sohaib&icon=1&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=H-sohaib&icon=1&color=5)]()
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
