@@ -20,7 +20,7 @@ Check out my portfolio to see more about my projects and experience: [harraouiso
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=H-sohaib&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-<table style="border-collapse: collapse; width: 100%;">
+<table style="border: 0px; width: 100%;">
   <tr>
     <td style="border: none; padding: 0; text-align: center;">
       <h3>✍️ Random Dev Quote</h3>
