@@ -9,7 +9,10 @@ About Me 🌟<br>Hello! I'm Sohaib Harraoui, a passionate developer and cybersec
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=H-sohaib&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=H-sohaib&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=H-sohaib&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=H-sohaib&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=H-sohaib&theme=radical&no-frame=true&no-bg=false&margin-w=4)
