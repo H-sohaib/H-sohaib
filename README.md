@@ -20,16 +20,19 @@ Check out my portfolio to see more about my projects and experience: [harraouiso
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=H-sohaib&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-<table>
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td>
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
+    <td style="border: none; padding: 0; text-align: center;">
+      <h3>✍️ Random Dev Quote</h3>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" style="width: 100%;">
     </td>
-    <td>
-      <img src="https://github-contributor-stats.vercel.app/api?username=H-sohaib&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+    <td style="border: none; padding: 0; text-align: center;">
+      <h3>🔝 Top Contributed Repo</h3>
+      <img src="https://github-contributor-stats.vercel.app/api?username=H-sohaib&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" style="width: 100%;">
     </td>
   </tr>
 </table>
+
 
 
 ---
