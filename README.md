@@ -1,5 +1,12 @@
-# 💫 About Me:
-Hello! I'm Sohaib Harraoui, a passionate developer and cybersecurity enthusiast with a background in full-stack development and ethical hacking. Recently, I completed a two-month internship at InnovQube, where I worked on the innovRental project—a comprehensive SaaS platform designed to automate and streamline short-term rental management. 🚀 Our solution significantly reduces manual tasks by automating communication, scheduling, and billing, and integrates seamlessly with major booking platforms like Airbnb and Booking.com. 🏡✨<br><br>Currently, I'm diving into network scanning tools and other techniques for ethical hacking, aiming to enhance my skills in cybersecurity. 🔍💻 I’m always eager to collaborate on projects related to cybersecurity and am enthusiastic about web development, as showcased by many of my projects on GitHub. 🌐🔧<br><br>Feel free to reach out if you have any interesting cybersecurity or web development projects, or if you’d like to discuss the latest trends in these fields! 🤝💬<br><br>Fun Fact: I’m still discovering my quirks, but I’m always excited to connect with fellow tech enthusiasts and learn new things! 🌟
+💫 About Me
+
+Hello! I’m Sohaib Harraoui, a developer deeply passionate about information technology and building practical solutions. I enjoy designing and developing applications that simplify processes, automate workflows, and solve real-world problems through clean and efficient code.
+
+My main interests revolve around software development, automation, and system integration, where I like to experiment with different technologies to turn ideas into working products. I’m particularly motivated by projects that have a tangible impact and allow me to continuously learn, iterate, and improve.
+
+I’m always curious about how systems work behind the scenes and enjoy exploring new tools, frameworks, and technologies within the IT ecosystem. Most of my projects reflect this mindset and are available on my GitHub, where I regularly build and experiment with new ideas.
+
+I’m open to collaborating on interesting software, automation, or web-based projects, and I always enjoy exchanging ideas and learning from other tech enthusiasts.
 
 ### 🌟 Portfolio:
 Check out my portfolio to see more about my projects and experience: [harraouisohaib.pythonanywhere.com](https://harraouisohaib.pythonanywhere.com/)
